@@ -6,7 +6,7 @@
     - [Uniswap](#uniswap)
     - [Balancer](#balancer)
   - [Chainlink](#chainlink)
-  - [Price Feeds](#price-feeds)
+    - [Price Feeds](#price-feeds)
   - [ETH Staking](#eth-staking)
   - [EVM](#evm)
     - [General](#general)
@@ -33,7 +33,7 @@
 
 ## Chainlink
 
-## Price Feeds
+### Price Feeds
 
 - [Ackee](https://ackeeblockchain.com/blog/chainlink-data-feeds/)
 - [Dacian](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf)
