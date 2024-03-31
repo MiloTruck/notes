@@ -16,7 +16,6 @@
 ## Geth
 
 - [Geth Documentation](https://geth.ethereum.org/docs)
-
 - **Dissecting EVM using go-ethereum Eth client implementation** by [@deliriusz_eth](https://twitter.com/deliriusz_eth)
   - [Part 1 - Transaction execution flow](https://medium.com/@deliriusz/dissecting-evm-using-go-ethereum-eth-client-implementation-part-i-transaction-execution-flow-960a1533e994)
   - [Part 2 - EVM](https://medium.com/@deliriusz/dissecting-evm-using-go-ethereum-eth-client-implementation-part-ii-evm-ce7653f31c6f)

@@ -1,18 +1,17 @@
 # Auditing Notes
 
-- [Auditing Notes](#auditing-notes)
-  - [Topics](#topics)
-  - [AMM](#amm)
-    - [Uniswap](#uniswap)
-    - [Balancer](#balancer)
-  - [Chainlink](#chainlink)
-    - [Price Feeds](#price-feeds)
-  - [ETH Staking](#eth-staking)
-  - [EVM](#evm)
-    - [General](#general)
-    - [Specific](#specific)
-    - [L2s](#l2s)
-  - [Vyper](#vyper)
+- [Topics](#topics)
+- [AMM](#amm)
+  - [Uniswap](#uniswap)
+  - [Balancer](#balancer)
+- [Chainlink](#chainlink)
+  - [Price Feeds](#price-feeds)
+- [ETH Staking](#eth-staking)
+- [EVM](#evm)
+  - [General](#general)
+  - [Specific](#specific)
+  - [L2s](#l2s)
+- [Vyper](#vyper)
 
 ## Topics
 
@@ -48,7 +47,7 @@
 
 ### General
 
-- [EVM Codes](https://www.evm.codes)
+- [evm.codes](https://www.evm.codes) and [evm.storage](https://evm.storage/)
 - [EVM Handbook](https://noxx3xxon.notion.site/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
 - [Understanding the EVM - Part I](https://leftasexercise.com/2021/09/12/understanding-the-ethereum-virtual-machine-part-i/)
 - [Understanding the EVM - Part II](https://leftasexercise.com/2021/09/15/understanding-the-ethereum-virtual-machine-part-ii/)
