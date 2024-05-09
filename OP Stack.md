@@ -9,9 +9,19 @@
 
 ## Related Past Audits
 
+Audits & Contests
+
+- [Past Audits](https://github.com/ethereum-optimism/optimism/tree/develop/docs/security-reviews)
 - [Optimism Contest 01/23](https://github.com/sherlock-audit/2023-01-optimism-judging/issues?q=is%3Aopen+is%3Aissue+label%3AHigh%2CMedium)
 - [Optimism Contest 03/23](https://github.com/sherlock-audit/2023-03-optimism-judging/issues?q=is%3Aopen+is%3Aissue+label%3AHigh%2CMedium)
 - [BASE Contest 05/23](https://github.com/code-423n4/2023-05-base-findings/issues)
+- [Blast Contest 02/24](https://cantina.xyz/code/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0/findings)
+
+Bugs
+
+- [Abuse re-entrancy protection to force withdrawal to fail in `CrossDomainMessenger`](https://github.com/code-423n4/2023-05-base-findings/issues/119)
+- [TRST M-3: Memory expansion cost not accurate in `baseGas()`](https://github.com/ethereum-optimism/optimism/blob/develop/docs/security-reviews/2023_12_Trust_SuperchainConfigUpgrade.pdf)
+- `CrossDomainMessenger` is a proxy, `baseGas()` inaccurate (see gist)
 
 ## Geth
 
