@@ -6,12 +6,14 @@
   - [Balancer](#balancer)
 - [Chainlink](#chainlink)
   - [Price Feeds](#price-feeds)
-- [ETH Staking](#eth-staking)
+- [Beacon Chain](#beacon-chain)
 - [EVM](#evm)
   - [General](#general)
+  - [Re-orgs](#re-orgs)
   - [Specific](#specific)
   - [L2s](#l2s)
 - [Vyper](#vyper)
+
 
 ## Topics
 
@@ -39,9 +41,26 @@
 - [Dacian](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf)
 - [0xMacro](https://0xmacro.com/blog/how-to-consume-chainlink-price-feeds-safely/)
 
-## ETH Staking
+## Beacon Chain
+
+General
+
+- [ETH 2.0 Beacon Chain Explained](https://consensys.io/blog/the-ethereum-2-0-beacon-chain-explained)
+
+ETH Staking
 
 - [eth2book](https://eth2book.info/capella/part2/)
+
+Re-orgs
+
+- [Investigating why reorgs happen in POS Ethereum](https://www.samlewis.me/2022/03/beacon-chain-reorgs/)
+- [Statistical Analysis of Reorgs](https://ethresear.ch/t/the-second-slot-itch-statistical-analysis-of-reorgs/16333)
+- [Etherscan - Reorged blocks](https://etherscan.io/blocks_forked)
+
+Indexers
+
+- [beaconscan](https://beaconscan.com/)
+- [beaconcha.in](https://beaconcha.in/)
 
 ## EVM
 
@@ -52,6 +71,9 @@
 - [Understanding the EVM - Part I](https://leftasexercise.com/2021/09/12/understanding-the-ethereum-virtual-machine-part-i/)
 - [Understanding the EVM - Part II](https://leftasexercise.com/2021/09/15/understanding-the-ethereum-virtual-machine-part-ii/)
 - [Understanding the EVM - Part III](https://leftasexercise.com/2021/09/19/q-understanding-the-ethereum-virtual-machine-part-iii/)
+
+### Re-orgs
+
 
 ### Specific
 
