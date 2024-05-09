@@ -72,9 +72,6 @@ Indexers
 - [Understanding the EVM - Part II](https://leftasexercise.com/2021/09/15/understanding-the-ethereum-virtual-machine-part-ii/)
 - [Understanding the EVM - Part III](https://leftasexercise.com/2021/09/19/q-understanding-the-ethereum-virtual-machine-part-iii/)
 
-### Re-orgs
-
-
 ### Specific
 
 - [Gas costs after Berlin](https://hackmd.io/@fvictorio/gas-costs-after-berlin)
