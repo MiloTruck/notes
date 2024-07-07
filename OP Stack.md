@@ -21,7 +21,7 @@ Bugs
 
 - [Abuse re-entrancy protection to force withdrawal to fail in `CrossDomainMessenger`](https://github.com/code-423n4/2023-05-base-findings/issues/119)
 - [TRST M-3: Memory expansion cost not accurate in `baseGas()`](https://github.com/ethereum-optimism/optimism/blob/develop/docs/security-reviews/2023_12_Trust_SuperchainConfigUpgrade.pdf)
-- `CrossDomainMessenger` is a proxy, `baseGas()` inaccurate (see gist)
+- `CrossDomainMessenger` is a proxy, `baseGas()` inaccurate
 
 ## Geth
 
