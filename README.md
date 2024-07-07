@@ -48,11 +48,11 @@ General
 - [ETH 2.0 Beacon Chain Explained](https://consensys.io/blog/the-ethereum-2-0-beacon-chain-explained)
 - [Consensus Spec](https://github.com/ethereum/consensus-specs)
 - [Annotated Consensus Spec](https://github.com/ethereum/annotated-spec)
-- [EIP 4895 - Withdrawals](https://eips.ethereum.org/EIPS/eip-4895)
 
 ETH Staking
 
 - [eth2book](https://eth2book.info/capella/part2/)
+- [EIP 4895 - Withdrawals](https://eips.ethereum.org/EIPS/eip-4895)
 - [EIP 4788 - Beacon block root in EVM](https://eips.ethereum.org/EIPS/eip-4788)
 - [Beacon Chain Proofs](https://github.com/Layr-Labs/eigenlayer-contracts/blob/dev/docs/core/proofs/BeaconChainProofs.md)
 
