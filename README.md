@@ -67,6 +67,14 @@ Indexers
 - [beaconscan](https://beaconscan.com/)
 - [beaconcha.in](https://beaconcha.in/)
 
+## Account Abstraction
+
+- [EIP 4337 - Account Abstraction](https://eips.ethereum.org/EIPS/eip-4337)
+- [EIP 7579 - Modules](https://eips.ethereum.org/EIPS/eip-7579)
+- [EIP 7484 - Registry](https://eips.ethereum.org/EIPS/eip-7484)
+- [Infinitism Repository](https://github.com/eth-infinitism/account-abstraction)
+- [Checklist by aviggiano](https://github.com/aviggiano/security/blob/main/audit-checklists/ERC-4337.md)
+
 ## EVM
 
 ### General
