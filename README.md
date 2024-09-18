@@ -27,6 +27,8 @@
 
 - [Uniswap V3 Math Part 1](https://blog.uniswap.org/uniswap-v3-math-primer)
 - [Uniswap V3 Math Part 2](https://blog.uniswap.org/uniswap-v3-math-primer-2)
+- [Uniswap V3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+- [Uniswap V3 Liquidity Math](https://atiselsts.github.io/pdfs/uniswap-v3-liquidity-math.pdf)
 - [Uniswap V3 TWAP Manipulation](https://chaoslabs.xyz/posts/chaos-labs-uniswap-v3-twap-market-risk#783c9150ebcf)
 
 ### Balancer
